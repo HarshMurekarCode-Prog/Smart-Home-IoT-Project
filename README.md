@@ -85,3 +85,4 @@ Developed as a Hackathon Project by **Team 1**.
 ## 📜 License
 
 This project is intended for educational and learning purposes.
+this was my fast ai robatics handon work shop woring all divices lice artenous uno borad and all sencers 
